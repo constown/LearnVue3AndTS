@@ -1,6 +1,24 @@
-# LearnVue3AndTS
-学习Vue3和TS笔记
+# vue3-basic
 
-## branch
-- ts
-- vue3
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
