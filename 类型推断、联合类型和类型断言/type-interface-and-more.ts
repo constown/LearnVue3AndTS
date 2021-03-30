@@ -8,6 +8,7 @@ let str = 'str'
 let numberOrString: number | string
 
 // 在没有赋值的时候，可以访问联合类型里共有的属性和方法
+// @ts-ignoreuyuy
 numberOrString.toString()
 
 // 如果要提前获取到类型的方法
